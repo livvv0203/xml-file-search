@@ -15,7 +15,7 @@ public class XMLFile {
     public String getXMLFilePath() {
         xmlFilePath =
                 scanner.nextLine();
-                
+
         return xmlFilePath;
     }
 }
